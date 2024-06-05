@@ -1,3 +1,3 @@
 # AgroEase
 
- https://ekansh-coder5.github.io/AgroEase/index.html
+ https://ekansh-coder5.github.io/AgroEase/
